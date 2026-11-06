@@ -1,0 +1,61 @@
+Versión: optimizada | Optimización: -O3 | Hilos: 2 | Puntos por ejecución: 1000000000
+
+===== Ejecución 01/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141610404000000
+Tiempo de ejecución: 3.177866 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0006%
+
+===== Ejecución 02/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141579056000000
+Tiempo de ejecución: 3.180041 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0004%
+
+===== Ejecución 03/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141598688000000
+Tiempo de ejecución: 3.171423 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0002%
+
+===== Ejecución 04/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141581820000000
+Tiempo de ejecución: 3.165324 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0003%
+
+===== Ejecución 05/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141596844000000
+Tiempo de ejecución: 3.200871 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0001%
+
+===== Ejecución 06/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141583688000000
+Tiempo de ejecución: 3.211550 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0003%
+
+===== Ejecución 07/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141573804000000
+Tiempo de ejecución: 3.184152 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0006%
+
+===== Ejecución 08/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141612736000000
+Tiempo de ejecución: 3.179543 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0006%
+
+===== Ejecución 09/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141611656000000
+Tiempo de ejecución: 3.214827 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0006%
+
+===== Ejecución 10/10 | Hilos: 2 =====
+Ingrese el número de puntos a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141606188000000
+Tiempo de ejecución: 3.186887 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0004%

@@ -1,0 +1,61 @@
+Versión: básica | Optimización: -O0 | Puntos por ejecución: 1000000000
+
+===== Ejecución 01/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141603892000000
+Tiempo de ejecución: 23.478081 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0004%
+
+===== Ejecución 02/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141591844000000
+Tiempo de ejecución: 23.536821 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0000%
+
+===== Ejecución 03/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141616024000000
+Tiempo de ejecución: 23.484998 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0007%
+
+===== Ejecución 04/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141550348000000
+Tiempo de ejecución: 23.680476 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0013%
+
+===== Ejecución 05/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141639824000000
+Tiempo de ejecución: 23.507529 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0015%
+
+===== Ejecución 06/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141642384000000
+Tiempo de ejecución: 23.586239 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0016%
+
+===== Ejecución 07/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141600792000000
+Tiempo de ejecución: 24.243752 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0003%
+
+===== Ejecución 08/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141622388000000
+Tiempo de ejecución: 23.551891 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0009%
+
+===== Ejecución 09/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141626704000000
+Tiempo de ejecución: 23.495773 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0011%
+
+===== Ejecución 10/10 =====
+Ingrese el número de puntos a lanzar: Valor encontrado de PI: 3.141598876000000
+Tiempo de ejecución: 23.406896 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0002%
