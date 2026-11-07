@@ -5,7 +5,7 @@ script_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
 basic_source="$script_dir/needles_serial.c"
 optimized_source="$script_dir/needles_optimizado.c"
 points=${POINTS:-100000000}
-repetitions=5
+repetitions=10
 thread_counts=(1 2 4 8 12)
 
 if ! command -v gcc >/dev/null 2>&1; then

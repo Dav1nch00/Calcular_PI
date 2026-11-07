@@ -95,16 +95,16 @@ Se aplicó en las versiones optimizadas (`*_optimizado.c`):
 
 Entorno: WSL Ubuntu, 12 núcleos, 50 millones de iteraciones por ejecución.
 
-### 4.1 Monte Carlo Needles (50M agujas)
+### 4.1 Monte Carlo Needles (50M agujas, 10 repeticiones)
 
-| Configuración | Tiempo (s) | Speedup vs serial | Eficiencia |
-|---------------|------------|-------------------|------------|
-| Serial (-O0) | ~3.79 | 1.00× | 100% |
-| 1 hilo (-O3) | ~3.05 | 1.24× | 124% |
-| 2 hilos | ~1.50 | 2.53× | 126% |
-| 4 hilos | ~0.64 | 5.92× | 148% |
-| 8 hilos | ~0.25 | 15.16× | 190% |
-| 12 hilos | ~0.23 | 16.48× | 137% |
+| Configuración | Tiempo medio (s) | Speedup vs serial | Eficiencia |
+|---------------|------------------|-------------------|------------|
+| Serial (-O0) | ~3.69 | 1.00× | 100% |
+| 1 hilo (-O3) | ~2.88 | 1.28× | 128% |
+| 2 hilos | ~1.49 | 2.48× | 124% |
+| 4 hilos | ~0.63 | 5.86× | 146% |
+| 8 hilos | ~0.27 | 13.67× | 171% |
+| 12 hilos | ~0.22 | 16.77× | 140% |
 
 ### 4.2 Dartboard (50M puntos)
 

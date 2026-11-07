@@ -1,0 +1,61 @@
+Versión: básica | Optimización: -O0 | Agujas por ejecución: 50000000
+
+===== Ejecución 01/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141485534370145
+Tiempo de ejecución: 3.679973 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0034%
+
+===== Ejecución 02/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141484152720362
+Tiempo de ejecución: 3.655337 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0035%
+
+===== Ejecución 03/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141850431141996
+Tiempo de ejecución: 3.730268 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0003
+Error relativo: 0.0082%
+
+===== Ejecución 04/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141094773299966
+Tiempo de ejecución: 3.675532 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0005
+Error relativo: 0.0158%
+
+===== Ejecución 05/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141971457011656
+Tiempo de ejecución: 3.573515 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0004
+Error relativo: 0.0121%
+
+===== Ejecución 06/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141637424567322
+Tiempo de ejecución: 3.967701 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0014%
+
+===== Ejecución 07/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141088458767780
+Tiempo de ejecución: 4.019473 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0005
+Error relativo: 0.0160%
+
+===== Ejecución 08/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141693190411427
+Tiempo de ejecución: 3.753167 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0032%
+
+===== Ejecución 09/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141611664376851
+Tiempo de ejecución: 3.706515 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0006%
+
+===== Ejecución 10/10 =====
+Ingrese el número de agujas a lanzar: Valor encontrado de PI: 3.141383295568671
+Tiempo de ejecución: 3.168408 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0002
+Error relativo: 0.0067%

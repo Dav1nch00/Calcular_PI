@@ -1,0 +1,61 @@
+Versión: optimizada | Optimización: -O3 | Hilos: 1 | Agujas por ejecución: 50000000
+
+===== Ejecución 01/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141576331162860
+Tiempo de ejecución: 2.898470 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0005%
+
+===== Ejecución 02/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141622323714775
+Tiempo de ejecución: 2.939550 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0009%
+
+===== Ejecución 03/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141695263162376
+Tiempo de ejecución: 2.912044 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0033%
+
+===== Ejecución 04/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141571100335592
+Tiempo de ejecución: 2.575937 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0007%
+
+===== Ejecución 05/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141504186761167
+Tiempo de ejecución: 2.796916 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0028%
+
+===== Ejecución 06/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141548104641198
+Tiempo de ejecución: 2.864339 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0014%
+
+===== Ejecución 07/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141590938093505
+Tiempo de ejecución: 3.013045 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0001%
+
+===== Ejecución 08/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141573567704774
+Tiempo de ejecución: 2.940801 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0000
+Error relativo: 0.0006%
+
+===== Ejecución 09/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141453559357985
+Tiempo de ejecución: 2.967926 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0044%
+
+===== Ejecución 10/10 | Hilos: 1 =====
+Ingrese el número de agujas a lanzar: Ingrese el número de hilos: Valor encontrado de PI: 3.141467178265068
+Tiempo de ejecución: 2.914161 segundos
+Diferencia absoluta respecto a PI de referencia: 0.0001
+Error relativo: 0.0040%
