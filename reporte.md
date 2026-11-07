@@ -2,7 +2,7 @@
 
 **Curso:** HPC — Universidad  
 **Repositorio:** https://github.com/Dav1nch00/Calcular_PI  
-**Carpeta de trabajo:** `C:\Users\erest\Desktop\universidad\HPC\reto 2`  
+**Carpeta de trabajo:** Raíz del proyecto (`reto 2/`)  
 **Entorno de ejecución:** WSL (Ubuntu), gcc 15.2.0, OpenMP (libgomp1), 12 núcleos CPU
 
 ---
@@ -185,11 +185,11 @@ reto 2/
 
 ## 8. Cómo compilar y ejecutar
 
-Desde WSL (Ubuntu):
+Desde WSL (Ubuntu) o Linux:
 
 ```bash
-# Entrar a la carpeta del algoritmo deseado
-cd "/mnt/c/Users/erest/Desktop/universidad/HPC/reto 2/MonteCarlo_Needles"
+# Navegar a la carpeta del algoritmo deseado (desde la raíz del proyecto)
+cd MonteCarlo_Needles
 
 # Compilar serial
 gcc -O0 needles_serial.c -o needles_serial -lm
@@ -207,4 +207,4 @@ printf '50000000\n8\n' | ./needles_omp
 POINTS=50000000 bash benchmark_needles.sh
 ```
 
-Igual para `Dartboard/` con `Dartboard.c`, `Dartboard_optimizado.c` y `benchmark.sh`.
+Igual para `Dartboard/` ingresando con `cd Dartboard` y utilizando `Dartboard.c`, `Dartboard_optimizado.c` y `benchmark.sh`.

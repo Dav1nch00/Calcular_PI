@@ -20,10 +20,11 @@ reporte.md          Análisis, benchmarks y conclusiones
 
 ## Compilación y ejecución
 
-Desde WSL:
+Desde WSL / Linux:
 
 ```bash
-cd "/mnt/c/Users/erest/Desktop/universidad/HPC/reto 2/MonteCarlo_Needles"
+# Navegar a la carpeta del algoritmo deseado (desde la raíz del proyecto)
+cd MonteCarlo_Needles
 
 gcc -O0 needles_serial.c -o needles_serial -lm
 gcc -O3 -fopenmp needles_optimizado.c -o needles_omp -lm
